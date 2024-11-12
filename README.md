@@ -1,2 +1,2 @@
-# PitEmockProj
-Python Mock Project
+# PitE
+This is a python mock project.
