@@ -1,0 +1,546 @@
+Bangkok:
+  base: stations
+  clouds:
+    all: 96
+  cod: 200
+  coord:
+    lat: 13.7563
+    lon: 100.5018
+  dt: 1731445439
+  id: 1608132
+  main:
+    feels_like: 302.75
+    grnd_level: 1007
+    humidity: 79
+    pressure: 1008
+    sea_level: 1008
+    temp: 300.13
+    temp_max: 301.1
+    temp_min: 300.1
+  name: Nonthaburi
+  sys:
+    country: TH
+    id: 9235
+    sunrise: 1731453421
+    sunset: 1731494864
+    type: 1
+  timezone: 25200
+  visibility: 10000
+  weather:
+  - description: overcast clouds
+    icon: 04n
+    id: 804
+    main: Clouds
+  wind:
+    deg: 339
+    gust: 4.39
+    speed: 2.09
+Berlin:
+  base: stations
+  clouds:
+    all: 100
+  cod: 200
+  coord:
+    lat: 52.52
+    lon: 13.4
+  dt: 1731444948
+  id: 6545310
+  main:
+    feels_like: 277.71
+    grnd_level: 1026
+    humidity: 91
+    pressure: 1032
+    sea_level: 1032
+    temp: 277.71
+    temp_max: 278.94
+    temp_min: 276.52
+  name: Mitte
+  sys:
+    country: DE
+    id: 2009543
+    sunrise: 1731392604
+    sunset: 1731424676
+    type: 2
+  timezone: 3600
+  visibility: 8000
+  weather:
+  - description: overcast clouds
+    icon: 04n
+    id: 804
+    main: Clouds
+  wind:
+    deg: 360
+    speed: 1.03
+Bogota:
+  base: stations
+  clouds:
+    all: 75
+  cod: 200
+  coord:
+    lat: 4.711
+    lon: -74.0721
+  dt: 1731445487
+  id: 7033249
+  main:
+    feels_like: 288.31
+    grnd_level: 734
+    humidity: 100
+    pressure: 1012
+    sea_level: 1012
+    temp: 288.14
+    temp_max: 288.14
+    temp_min: 287.54
+  name: Santa Barbara Central
+  sys:
+    country: CO
+    id: 8582
+    sunrise: 1731408190
+    sunset: 1731451080
+    type: 1
+  timezone: -18000
+  visibility: 9000
+  weather:
+  - description: broken clouds
+    icon: 04d
+    id: 803
+    main: Clouds
+  wind:
+    deg: 200
+    gust: 0
+    speed: 1.79
+Brussels:
+  base: stations
+  clouds:
+    all: 75
+  cod: 200
+  coord:
+    lat: 50.8502
+    lon: 4.3535
+  dt: 1731445201
+  id: 2800867
+  main:
+    feels_like: 278.86
+    grnd_level: 1026
+    humidity: 89
+    pressure: 1033
+    sea_level: 1033
+    temp: 280.57
+    temp_max: 281.48
+    temp_min: 280.2
+  name: Brussels Capital
+  sys:
+    country: BE
+    id: 1227
+    sunrise: 1731394428
+    sunset: 1731427194
+    type: 1
+  timezone: 3600
+  visibility: 10000
+  weather:
+  - description: broken clouds
+    icon: 04n
+    id: 803
+    main: Clouds
+  wind:
+    deg: 40
+    speed: 2.57
+Jakarta:
+  base: stations
+  clouds:
+    all: 85
+  cod: 200
+  coord:
+    lat: -6.2088
+    lon: 106.8456
+  dt: 1731445224
+  id: 1642911
+  main:
+    feels_like: 299.68
+    grnd_level: 1004
+    humidity: 83
+    pressure: 1008
+    sea_level: 1008
+    temp: 299.68
+    temp_max: 301.8
+    temp_min: 298.68
+  name: Jakarta
+  sys:
+    country: ID
+    id: 2033644
+    sunrise: 1731450323
+    sunset: 1731494917
+    type: 2
+  timezone: 25200
+  visibility: 10000
+  weather:
+  - description: overcast clouds
+    icon: 04n
+    id: 804
+    main: Clouds
+  wind:
+    deg: 130
+    gust: 2.88
+    speed: 2.1
+Krakow:
+  base: stations
+  clouds:
+    all: 100
+  cod: 200
+  coord:
+    lat: 50.0647
+    lon: 19.945
+  dt: 1731445412
+  id: 3085041
+  main:
+    feels_like: 271.94
+    grnd_level: 998
+    humidity: 97
+    pressure: 1030
+    sea_level: 1030
+    temp: 274.28
+    temp_max: 274.69
+    temp_min: 273.81
+  name: "\u015Ar\xF3dmie\u015Bcie"
+  sys:
+    country: PL
+    id: 2090246
+    sunrise: 1731390528
+    sunset: 1731423610
+    type: 2
+  timezone: 3600
+  visibility: 8000
+  weather:
+  - description: overcast clouds
+    icon: 04n
+    id: 804
+    main: Clouds
+  wind:
+    deg: 310
+    speed: 2.06
+London:
+  base: stations
+  clouds:
+    all: 100
+  cod: 200
+  coord:
+    lat: 51.5085
+    lon: -0.1257
+  dt: 1731445215
+  id: 2643743
+  main:
+    feels_like: 280.45
+    grnd_level: 1031
+    humidity: 89
+    pressure: 1036
+    sea_level: 1036
+    temp: 282.62
+    temp_max: 283.35
+    temp_min: 281.82
+  name: London
+  sys:
+    country: GB
+    id: 2075535
+    sunrise: 1731395639
+    sunset: 1731428134
+    type: 2
+  timezone: 0
+  visibility: 10000
+  weather:
+  - description: overcast clouds
+    icon: 04n
+    id: 804
+    main: Clouds
+  wind:
+    deg: 30
+    speed: 4.12
+Madrid:
+  base: stations
+  clouds:
+    all: 0
+  cod: 200
+  coord:
+    lat: 40.421
+    lon: -3.6999
+  dt: 1731444927
+  id: 6544494
+  main:
+    feels_like: 277.54
+    grnd_level: 943
+    humidity: 56
+    pressure: 1018
+    sea_level: 1018
+    temp: 280.46
+    temp_max: 281.22
+    temp_min: 278.68
+  name: Madrid City Center
+  sys:
+    country: ES
+    id: 2084029
+    sunrise: 1731394670
+    sunset: 1731430818
+    type: 2
+  timezone: 3600
+  visibility: 9000
+  weather:
+  - description: clear sky
+    icon: 01n
+    id: 800
+    main: Clear
+  wind:
+    deg: 40
+    speed: 4.63
+Mexico City:
+  base: stations
+  clouds:
+    all: 0
+  cod: 200
+  coord:
+    lat: 19.4326
+    lon: -99.1332
+  dt: 1731445441
+  id: 3530597
+  main:
+    feels_like: 296.26
+    grnd_level: 761
+    humidity: 22
+    pressure: 1010
+    sea_level: 1010
+    temp: 297.22
+    temp_max: 297.62
+    temp_min: 296.98
+  name: Mexico City
+  sys:
+    country: MX
+    id: 47729
+    sunrise: 1731415396
+    sunset: 1731455905
+    type: 2
+  timezone: -21600
+  visibility: 10000
+  weather:
+  - description: clear sky
+    icon: 01d
+    id: 800
+    main: Clear
+  wind:
+    deg: 40
+    speed: 4.12
+Moscow:
+  base: stations
+  clouds:
+    all: 95
+  cod: 200
+  coord:
+    lat: 55.7558
+    lon: 37.6173
+  dt: 1731445386
+  id: 524901
+  main:
+    feels_like: 270.77
+    grnd_level: 1011
+    humidity: 67
+    pressure: 1031
+    sea_level: 1031
+    temp: 273.86
+    temp_max: 274.08
+    temp_min: 273.25
+  name: Moscow
+  sys:
+    country: RU
+    id: 2094500
+    sunrise: 1731474078
+    sunset: 1731504394
+    type: 2
+  timezone: 10800
+  visibility: 10000
+  weather:
+  - description: overcast clouds
+    icon: 04n
+    id: 804
+    main: Clouds
+  wind:
+    deg: 261
+    gust: 6.99
+    speed: 2.7
+New York:
+  base: stations
+  clouds:
+    all: 0
+  cod: 200
+  coord:
+    lat: 40.7128
+    lon: -74.006
+  dt: 1731445487
+  id: 5128581
+  main:
+    feels_like: 279.47
+    grnd_level: 1019
+    humidity: 44
+    pressure: 1021
+    sea_level: 1021
+    temp: 283.02
+    temp_max: 284.23
+    temp_min: 281.57
+  name: New York
+  sys:
+    country: US
+    id: 2008776
+    sunrise: 1731411597
+    sunset: 1731447642
+    type: 2
+  timezone: -18000
+  visibility: 10000
+  weather:
+  - description: clear sky
+    icon: 01d
+    id: 800
+    main: Clear
+  wind:
+    deg: 330
+    gust: 14.92
+    speed: 8.75
+Paris:
+  base: stations
+  clouds:
+    all: 100
+  cod: 200
+  coord:
+    lat: 48.8566
+    lon: 2.3522
+  dt: 1731445253
+  id: 6455259
+  main:
+    feels_like: 280.34
+    grnd_level: 1020
+    humidity: 79
+    pressure: 1030
+    sea_level: 1030
+    temp: 282.87
+    temp_max: 283.38
+    temp_min: 281.99
+  name: Paris
+  sys:
+    country: FR
+    id: 2012208
+    sunrise: 1731394528
+    sunset: 1731428056
+    type: 2
+  timezone: 3600
+  visibility: 10000
+  weather:
+  - description: overcast clouds
+    icon: 04n
+    id: 804
+    main: Clouds
+  wind:
+    deg: 50
+    speed: 5.14
+Rome:
+  base: stations
+  clouds:
+    all: 0
+  cod: 200
+  coord:
+    lat: 41.9028
+    lon: 12.4964
+  dt: 1731445120
+  id: 6545158
+  main:
+    feels_like: 283.83
+    grnd_level: 1009
+    humidity: 51
+    pressure: 1019
+    sea_level: 1019
+    temp: 285.23
+    temp_max: 285.84
+    temp_min: 283.69
+  name: Trevi
+  sys:
+    country: IT
+    id: 2037613
+    sunrise: 1731390982
+    sunset: 1731426731
+    type: 2
+  timezone: 3600
+  visibility: 10000
+  weather:
+  - description: clear sky
+    icon: 01n
+    id: 800
+    main: Clear
+  wind:
+    deg: 80
+    speed: 3.09
+Tokyo:
+  base: stations
+  clouds:
+    all: 0
+  cod: 200
+  coord:
+    lat: 35.6895
+    lon: 139.6917
+  dt: 1731445166
+  id: 1850144
+  main:
+    feels_like: 287.75
+    grnd_level: 1015
+    humidity: 67
+    pressure: 1016
+    sea_level: 1016
+    temp: 288.42
+    temp_max: 289.4
+    temp_min: 287.36
+  name: Tokyo
+  sys:
+    country: JP
+    id: 268395
+    sunrise: 1731446105
+    sunset: 1731483367
+    type: 2
+  timezone: 32400
+  visibility: 10000
+  weather:
+  - description: clear sky
+    icon: 01n
+    id: 800
+    main: Clear
+  wind:
+    deg: 360
+    speed: 6.69
+Warsaw:
+  base: stations
+  clouds:
+    all: 100
+  cod: 200
+  coord:
+    lat: 52.2298
+    lon: 21.0118
+  dt: 1731445012
+  id: 756135
+  main:
+    feels_like: 271.28
+    grnd_level: 1018
+    humidity: 90
+    pressure: 1030
+    sea_level: 1030
+    temp: 274.27
+    temp_max: 275.12
+    temp_min: 273.51
+  name: Warsaw
+  sys:
+    country: PL
+    id: 2092919
+    sunrise: 1731390712
+    sunset: 1731422914
+    type: 2
+  timezone: 3600
+  visibility: 9000
+  weather:
+  - description: overcast clouds
+    icon: 04n
+    id: 804
+    main: Clouds
+  wind:
+    deg: 100
+    gust: 0
+    speed: 2.68

@@ -1,16 +1,15 @@
 import yaml
-import cityWeather
+from cityWeather import cityWeather
 import logging
 
 #data should be already fetched
 
 #logging configuration
-logging.basicConfig(
-    filename='../logs/app.log',
-    filemode='a',  # append mode
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    level=logging.INFO  # logging level
-)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+console_handler = logging.StreamHandler()
+file_handler = logging.FileHandler('../logs/app.log')
+logging.getLogger().addHandler(console_handler)
+logging.getLogger().addHandler(file_handler)
 
 #yaml_file = '../config/weather_data.yaml'
 
@@ -28,15 +27,16 @@ def process_weather_data(weather_data):
 
     for city_name, city_data in weather_data.items():
         try:
+            # Accessing nested dictionary values properly
             city_weather = cityWeather(
                 city_name=city_name,
-                time=city_data['time'],
-                temperature=city_data['temperature'],
-                description=city_data['description'],
-                feels_like=city_data['feels_like'],
-                humidity=city_data['humidity'],
-                pressure=city_data['pressure'],
-                wind_speed=city_data['wind_speed']
+                time=city_data['dt'],
+                temperature=city_data['main']['temp'],  # Access 'temp' under 'main'
+                description=city_data['weather'][0]['description'],  # Access weather description
+                feels_like=city_data['main']['feels_like'],
+                humidity=city_data['main']['humidity'],
+                pressure=city_data['main']['pressure'],
+                wind_speed=city_data['wind']['speed']  # Access 'speed' under 'wind'
             )
             city_weather_objects[city_name] = city_weather
         except KeyError as e:
