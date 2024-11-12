@@ -1,0 +1,49 @@
+{
+   "coord": {
+      "lon": 7.367,     //longitude
+      "lat": 45.133     //latitude 
+   },
+   "weather": [
+      {
+         "id": 501,        //weather codition id
+         "main": "Rain",      //weather condition group
+         "description": "moderate rain",     //weather condition within group
+         "icon": "10d"     //weather icon
+      }
+   ],
+   "base": "stations",     //internal parameter
+   "main": {
+      "temp": 284.2,             //temperature default: Kelvin
+      "feels_like": 282.93,      //temperature parameter that accounts for the human perception of weather
+      "temp_min": 283.06,     //min temp at the moment
+      "temp_max": 286.82,        //max temp at the moment
+      "pressure": 1021,          //atmospheric pressure hPa
+      "humidity": 60,            //humidity %
+      "sea_level": 1021,         //same as pressure
+      "grnd_level": 910          //pressure on gorund level
+   },
+   "visibility": 10000,          //visibility meter, m
+   "wind": {
+      "speed": 4.09,          //wind speed
+      "deg": 121,             //wind direction
+      "gust": 3.47            // wind gust
+   },
+   "rain": {
+      "1h": 2.73           //precipation mm/h
+   },
+   "clouds": {
+      "all": 83         //cloudiness, %
+   },
+   "dt": 1726660758,    //time of data calculation, unix, UTC
+   "sys": {
+      "type": 1,                 //internal parameter
+      "id": 6736,                //internal parameter
+      "country": "IT",             //internal parameter
+      "sunrise": 1726636384,     //sunrise time UTC
+      "sunset": 1726680975          //sunset time UTC
+   },
+   "timezone": 7200,    //shift in secontds from UTC
+   "id": 3165523,       //city ID
+   "name": "Province of Turin",     //city NAME
+   "cod": 200     //internal parameter
+}
