@@ -1,368 +1,97 @@
-Starting concurrent data fetch...
-Starting concurrent data fetch...
-Starting concurrent data fetch...
+initial run
+Starting data fetch...
 Starting concurrent data fetch...
 Weather data successfully saved to: ../config/weather_data.yaml
-Weather data successfully saved to: ../config/weather_data.yaml
-Weather data successfully saved to: ../config/weather_data.yaml
-Weather data successfully saved to: ../config/weather_data.yaml
-Processed weather data for Bangkok: Weather in Bangkok at 1731445439:
-Temperature: 300.13°C, Feels like: 302.75°C
+Starting data processing...
+Processed weather data for Bangkok: Weather in Bangkok at 21:44:
+Temperature: 29°C, Feels like: 34°C
 Description: overcast clouds
-Humidity: 79%
+Humidity: 86%
 Pressure: 1008 hPa
-Wind: 2.09 m/s
-Processed weather data for Bangkok: Weather in Bangkok at 1731445439:
-Temperature: 300.13°C, Feels like: 302.75°C
+Wind: 0.58 m/s
+Processed weather data for Berlin: Weather in Berlin at 21:45:
+Temperature: 8°C, Feels like: 6°C
 Description: overcast clouds
-Humidity: 79%
-Pressure: 1008 hPa
-Wind: 2.09 m/s
-Processed weather data for Bangkok: Weather in Bangkok at 1731445439:
-Temperature: 300.13°C, Feels like: 302.75°C
-Description: overcast clouds
-Humidity: 79%
-Pressure: 1008 hPa
-Wind: 2.09 m/s
-Processed weather data for Bangkok: Weather in Bangkok at 1731445439:
-Temperature: 300.13°C, Feels like: 302.75°C
-Description: overcast clouds
-Humidity: 79%
-Pressure: 1008 hPa
-Wind: 2.09 m/s
-Processed weather data for Berlin: Weather in Berlin at 1731444948:
-Temperature: 277.71°C, Feels like: 277.71°C
-Description: overcast clouds
-Humidity: 91%
-Pressure: 1032 hPa
-Wind: 1.03 m/s
-Processed weather data for Berlin: Weather in Berlin at 1731444948:
-Temperature: 277.71°C, Feels like: 277.71°C
-Description: overcast clouds
-Humidity: 91%
-Pressure: 1032 hPa
-Wind: 1.03 m/s
-Processed weather data for Berlin: Weather in Berlin at 1731444948:
-Temperature: 277.71°C, Feels like: 277.71°C
-Description: overcast clouds
-Humidity: 91%
-Pressure: 1032 hPa
-Wind: 1.03 m/s
-Processed weather data for Berlin: Weather in Berlin at 1731444948:
-Temperature: 277.71°C, Feels like: 277.71°C
-Description: overcast clouds
-Humidity: 91%
-Pressure: 1032 hPa
-Wind: 1.03 m/s
-Processed weather data for Bogota: Weather in Bogota at 1731445487:
-Temperature: 288.14°C, Feels like: 288.31°C
-Description: broken clouds
+Humidity: 89%
+Pressure: 1023 hPa
+Wind: 4.02 m/s
+Processed weather data for Bogota: Weather in Bogota at 21:44:
+Temperature: 15°C, Feels like: 15°C
+Description: moderate rain
 Humidity: 100%
-Pressure: 1012 hPa
-Wind: 1.79 m/s
-Processed weather data for Bogota: Weather in Bogota at 1731445487:
-Temperature: 288.14°C, Feels like: 288.31°C
-Description: broken clouds
-Humidity: 100%
-Pressure: 1012 hPa
-Wind: 1.79 m/s
-Processed weather data for Bogota: Weather in Bogota at 1731445487:
-Temperature: 288.14°C, Feels like: 288.31°C
-Description: broken clouds
-Humidity: 100%
-Pressure: 1012 hPa
-Wind: 1.79 m/s
-Processed weather data for Bogota: Weather in Bogota at 1731445487:
-Temperature: 288.14°C, Feels like: 288.31°C
-Description: broken clouds
-Humidity: 100%
-Pressure: 1012 hPa
-Wind: 1.79 m/s
-Processed weather data for Brussels: Weather in Brussels at 1731445201:
-Temperature: 280.57°C, Feels like: 278.86°C
-Description: broken clouds
-Humidity: 89%
-Pressure: 1033 hPa
+Pressure: 1013 hPa
 Wind: 2.57 m/s
-Processed weather data for Brussels: Weather in Brussels at 1731445201:
-Temperature: 280.57°C, Feels like: 278.86°C
+Processed weather data for Brussels: Weather in Brussels at 21:41:
+Temperature: 10°C, Feels like: 10°C
 Description: broken clouds
-Humidity: 89%
-Pressure: 1033 hPa
-Wind: 2.57 m/s
-Processed weather data for Brussels: Weather in Brussels at 1731445201:
-Temperature: 280.57°C, Feels like: 278.86°C
-Description: broken clouds
-Humidity: 89%
-Pressure: 1033 hPa
-Wind: 2.57 m/s
-Processed weather data for Brussels: Weather in Brussels at 1731445201:
-Temperature: 280.57°C, Feels like: 278.86°C
-Description: broken clouds
-Humidity: 89%
-Pressure: 1033 hPa
-Wind: 2.57 m/s
-Processed weather data for Jakarta: Weather in Jakarta at 1731445224:
-Temperature: 299.68°C, Feels like: 299.68°C
-Description: overcast clouds
-Humidity: 83%
-Pressure: 1008 hPa
-Wind: 2.1 m/s
-Processed weather data for Jakarta: Weather in Jakarta at 1731445224:
-Temperature: 299.68°C, Feels like: 299.68°C
-Description: overcast clouds
-Humidity: 83%
-Pressure: 1008 hPa
-Wind: 2.1 m/s
-Processed weather data for Jakarta: Weather in Jakarta at 1731445224:
-Temperature: 299.68°C, Feels like: 299.68°C
-Description: overcast clouds
-Humidity: 83%
-Pressure: 1008 hPa
-Wind: 2.1 m/s
-Processed weather data for Jakarta: Weather in Jakarta at 1731445224:
-Temperature: 299.68°C, Feels like: 299.68°C
-Description: overcast clouds
-Humidity: 83%
-Pressure: 1008 hPa
-Wind: 2.1 m/s
-Processed weather data for Krakow: Weather in Krakow at 1731445412:
-Temperature: 274.28°C, Feels like: 271.94°C
-Description: overcast clouds
-Humidity: 97%
-Pressure: 1030 hPa
-Wind: 2.06 m/s
-Processed weather data for Krakow: Weather in Krakow at 1731445412:
-Temperature: 274.28°C, Feels like: 271.94°C
-Description: overcast clouds
-Humidity: 97%
-Pressure: 1030 hPa
-Wind: 2.06 m/s
-Processed weather data for Krakow: Weather in Krakow at 1731445412:
-Temperature: 274.28°C, Feels like: 271.94°C
-Description: overcast clouds
-Humidity: 97%
-Pressure: 1030 hPa
-Wind: 2.06 m/s
-Processed weather data for Krakow: Weather in Krakow at 1731445412:
-Temperature: 274.28°C, Feels like: 271.94°C
-Description: overcast clouds
-Humidity: 97%
-Pressure: 1030 hPa
-Wind: 2.06 m/s
-Processed weather data for London: Weather in London at 1731445215:
-Temperature: 282.62°C, Feels like: 280.45°C
-Description: overcast clouds
-Humidity: 89%
-Pressure: 1036 hPa
-Wind: 4.12 m/s
-Processed weather data for London: Weather in London at 1731445215:
-Temperature: 282.62°C, Feels like: 280.45°C
-Description: overcast clouds
-Humidity: 89%
-Pressure: 1036 hPa
-Wind: 4.12 m/s
-Processed weather data for London: Weather in London at 1731445215:
-Temperature: 282.62°C, Feels like: 280.45°C
-Description: overcast clouds
-Humidity: 89%
-Pressure: 1036 hPa
-Wind: 4.12 m/s
-Processed weather data for London: Weather in London at 1731445215:
-Temperature: 282.62°C, Feels like: 280.45°C
-Description: overcast clouds
-Humidity: 89%
-Pressure: 1036 hPa
-Wind: 4.12 m/s
-Processed weather data for Madrid: Weather in Madrid at 1731444927:
-Temperature: 280.46°C, Feels like: 277.54°C
-Description: clear sky
-Humidity: 56%
-Pressure: 1018 hPa
-Wind: 4.63 m/s
-Processed weather data for Madrid: Weather in Madrid at 1731444927:
-Temperature: 280.46°C, Feels like: 277.54°C
-Description: clear sky
-Humidity: 56%
-Pressure: 1018 hPa
-Wind: 4.63 m/s
-Processed weather data for Madrid: Weather in Madrid at 1731444927:
-Temperature: 280.46°C, Feels like: 277.54°C
-Description: clear sky
-Humidity: 56%
-Pressure: 1018 hPa
-Wind: 4.63 m/s
-Processed weather data for Madrid: Weather in Madrid at 1731444927:
-Temperature: 280.46°C, Feels like: 277.54°C
-Description: clear sky
-Humidity: 56%
-Pressure: 1018 hPa
-Wind: 4.63 m/s
-Processed weather data for Mexico City: Weather in Mexico City at 1731445441:
-Temperature: 297.22°C, Feels like: 296.26°C
-Description: clear sky
-Humidity: 22%
-Pressure: 1010 hPa
-Wind: 4.12 m/s
-Processed weather data for Mexico City: Weather in Mexico City at 1731445441:
-Temperature: 297.22°C, Feels like: 296.26°C
-Description: clear sky
-Humidity: 22%
-Pressure: 1010 hPa
-Wind: 4.12 m/s
-Processed weather data for Mexico City: Weather in Mexico City at 1731445441:
-Temperature: 297.22°C, Feels like: 296.26°C
-Description: clear sky
-Humidity: 22%
-Pressure: 1010 hPa
-Wind: 4.12 m/s
-Processed weather data for Mexico City: Weather in Mexico City at 1731445441:
-Temperature: 297.22°C, Feels like: 296.26°C
-Description: clear sky
-Humidity: 22%
-Pressure: 1010 hPa
-Wind: 4.12 m/s
-Processed weather data for Moscow: Weather in Moscow at 1731445386:
-Temperature: 273.86°C, Feels like: 270.77°C
-Description: overcast clouds
-Humidity: 67%
-Pressure: 1031 hPa
-Wind: 2.7 m/s
-Processed weather data for Moscow: Weather in Moscow at 1731445386:
-Temperature: 273.86°C, Feels like: 270.77°C
-Description: overcast clouds
-Humidity: 67%
-Pressure: 1031 hPa
-Wind: 2.7 m/s
-Processed weather data for Moscow: Weather in Moscow at 1731445386:
-Temperature: 273.86°C, Feels like: 270.77°C
-Description: overcast clouds
-Humidity: 67%
-Pressure: 1031 hPa
-Wind: 2.7 m/s
-Processed weather data for Moscow: Weather in Moscow at 1731445386:
-Temperature: 273.86°C, Feels like: 270.77°C
-Description: overcast clouds
-Humidity: 67%
-Pressure: 1031 hPa
-Wind: 2.7 m/s
-Processed weather data for New York: Weather in New York at 1731445487:
-Temperature: 283.02°C, Feels like: 279.47°C
-Description: clear sky
-Humidity: 44%
-Pressure: 1021 hPa
-Wind: 8.75 m/s
-Processed weather data for New York: Weather in New York at 1731445487:
-Temperature: 283.02°C, Feels like: 279.47°C
-Description: clear sky
-Humidity: 44%
-Pressure: 1021 hPa
-Wind: 8.75 m/s
-Processed weather data for New York: Weather in New York at 1731445487:
-Temperature: 283.02°C, Feels like: 279.47°C
-Description: clear sky
-Humidity: 44%
-Pressure: 1021 hPa
-Wind: 8.75 m/s
-Processed weather data for New York: Weather in New York at 1731445487:
-Temperature: 283.02°C, Feels like: 279.47°C
-Description: clear sky
-Humidity: 44%
-Pressure: 1021 hPa
-Wind: 8.75 m/s
-Processed weather data for Paris: Weather in Paris at 1731445253:
-Temperature: 282.87°C, Feels like: 280.34°C
-Description: overcast clouds
-Humidity: 79%
-Pressure: 1030 hPa
-Wind: 5.14 m/s
-Processed weather data for Paris: Weather in Paris at 1731445253:
-Temperature: 282.87°C, Feels like: 280.34°C
-Description: overcast clouds
-Humidity: 79%
-Pressure: 1030 hPa
-Wind: 5.14 m/s
-Processed weather data for Paris: Weather in Paris at 1731445253:
-Temperature: 282.87°C, Feels like: 280.34°C
-Description: overcast clouds
-Humidity: 79%
-Pressure: 1030 hPa
-Wind: 5.14 m/s
-Processed weather data for Paris: Weather in Paris at 1731445253:
-Temperature: 282.87°C, Feels like: 280.34°C
-Description: overcast clouds
-Humidity: 79%
-Pressure: 1030 hPa
-Wind: 5.14 m/s
-Processed weather data for Rome: Weather in Rome at 1731445120:
-Temperature: 285.23°C, Feels like: 283.83°C
-Description: clear sky
-Humidity: 51%
-Pressure: 1019 hPa
-Wind: 3.09 m/s
-Processed weather data for Rome: Weather in Rome at 1731445120:
-Temperature: 285.23°C, Feels like: 283.83°C
-Description: clear sky
-Humidity: 51%
-Pressure: 1019 hPa
-Wind: 3.09 m/s
-Processed weather data for Rome: Weather in Rome at 1731445120:
-Temperature: 285.23°C, Feels like: 283.83°C
-Description: clear sky
-Humidity: 51%
-Pressure: 1019 hPa
-Wind: 3.09 m/s
-Processed weather data for Rome: Weather in Rome at 1731445120:
-Temperature: 285.23°C, Feels like: 283.83°C
-Description: clear sky
-Humidity: 51%
-Pressure: 1019 hPa
-Wind: 3.09 m/s
-Processed weather data for Tokyo: Weather in Tokyo at 1731445166:
-Temperature: 288.42°C, Feels like: 287.75°C
-Description: clear sky
-Humidity: 67%
-Pressure: 1016 hPa
-Wind: 6.69 m/s
-Processed weather data for Tokyo: Weather in Tokyo at 1731445166:
-Temperature: 288.42°C, Feels like: 287.75°C
-Description: clear sky
-Humidity: 67%
-Pressure: 1016 hPa
-Wind: 6.69 m/s
-Processed weather data for Tokyo: Weather in Tokyo at 1731445166:
-Temperature: 288.42°C, Feels like: 287.75°C
-Description: clear sky
-Humidity: 67%
-Pressure: 1016 hPa
-Wind: 6.69 m/s
-Processed weather data for Tokyo: Weather in Tokyo at 1731445166:
-Temperature: 288.42°C, Feels like: 287.75°C
-Description: clear sky
-Humidity: 67%
-Pressure: 1016 hPa
-Wind: 6.69 m/s
-Processed weather data for Warsaw: Weather in Warsaw at 1731445012:
-Temperature: 274.27°C, Feels like: 271.28°C
-Description: overcast clouds
 Humidity: 90%
 Pressure: 1030 hPa
-Wind: 2.68 m/s
-Processed weather data for Warsaw: Weather in Warsaw at 1731445012:
-Temperature: 274.27°C, Feels like: 271.28°C
+Wind: 0.51 m/s
+Processed weather data for Jakarta: Weather in Jakarta at 21:48:
+Temperature: 27°C, Feels like: 30°C
 Description: overcast clouds
-Humidity: 90%
-Pressure: 1030 hPa
-Wind: 2.68 m/s
-Processed weather data for Warsaw: Weather in Warsaw at 1731445012:
-Temperature: 274.27°C, Feels like: 271.28°C
+Humidity: 82%
+Pressure: 1008 hPa
+Wind: 0.64 m/s
+Processed weather data for Krakow: Weather in Krakow at 21:45:
+Temperature: 5°C, Feels like: 1°C
+Description: light intensity drizzle
+Humidity: 89%
+Pressure: 1021 hPa
+Wind: 4.63 m/s
+Processed weather data for London: Weather in London at 21:47:
+Temperature: 10°C, Feels like: 9°C
 Description: overcast clouds
-Humidity: 90%
-Pressure: 1030 hPa
-Wind: 2.68 m/s
-Processed weather data for Warsaw: Weather in Warsaw at 1731445012:
-Temperature: 274.27°C, Feels like: 271.28°C
+Humidity: 77%
+Pressure: 1032 hPa
+Wind: 2.57 m/s
+Processed weather data for Madrid: Weather in Madrid at 21:42:
+Temperature: 15°C, Feels like: 14°C
+Description: broken clouds
+Humidity: 76%
+Pressure: 1019 hPa
+Wind: 3.58 m/s
+Processed weather data for Mexico City: Weather in Mexico City at 21:48:
+Temperature: 21°C, Feels like: 20°C
+Description: scattered clouds
+Humidity: 34%
+Pressure: 1013 hPa
+Wind: 5.14 m/s
+Processed weather data for Moscow: Weather in Moscow at 21:44:
+Temperature: 1°C, Feels like: -3°C
 Description: overcast clouds
-Humidity: 90%
-Pressure: 1030 hPa
-Wind: 2.68 m/s
+Humidity: 60%
+Pressure: 1010 hPa
+Wind: 3.59 m/s
+Processed weather data for New York: Weather in New York at 21:48:
+Temperature: 8°C, Feels like: 6°C
+Description: clear sky
+Humidity: 51%
+Pressure: 1021 hPa
+Wind: 3.6 m/s
+Processed weather data for Paris: Weather in Paris at 21:38:
+Temperature: 11°C, Feels like: 10°C
+Description: overcast clouds
+Humidity: 87%
+Pressure: 1029 hPa
+Wind: 2.57 m/s
+Processed weather data for Rome: Weather in Rome at 21:48:
+Temperature: 8°C, Feels like: 7°C
+Description: clear sky
+Humidity: 63%
+Pressure: 1018 hPa
+Wind: 2.57 m/s
+Processed weather data for Tokyo: Weather in Tokyo at 21:47:
+Temperature: 15°C, Feels like: 15°C
+Description: light intensity shower rain
+Humidity: 89%
+Pressure: 1019 hPa
+Wind: 4.12 m/s
+Processed weather data for Warsaw: Weather in Warsaw at 21:47:
+Temperature: 6°C, Feels like: 1°C
+Description: mist
+Humidity: 94%
+Pressure: 1017 hPa
+Wind: 6.26 m/s
+Data processing complete.
+Scheduler started, running `run()` every hour.

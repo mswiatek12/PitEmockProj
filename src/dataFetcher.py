@@ -1,7 +1,9 @@
 import requests
 import yaml
 import time
+#SCHEDULE FETCHING HOURLY(1)
 import schedule
+
 import logging
 import os
 import threading
@@ -12,11 +14,11 @@ os.makedirs(log_dir, exist_ok=True)
 
 
 # Logging configuration
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-console_handler = logging.StreamHandler()
-file_handler = logging.FileHandler('../logs/app.log')
-logging.getLogger().addHandler(console_handler)
-logging.getLogger().addHandler(file_handler)
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+    )
+
 
 class dataFetcher:
     def __init__(self, api_url, api_key, cities, timeout):
@@ -49,7 +51,7 @@ class dataFetcher:
         weather_data = {}
         threads = []
 
-        # function for a thread
+        # function for thread
         def threadFetch(city):
             longitude = city['longitude']
             latitude = city['latitude']
